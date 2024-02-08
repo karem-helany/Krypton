@@ -1,5 +1,5 @@
 // timeer down
-var countDownDate = new Date("july 1, 2023 0:0:0").getTime();
+var countDownDate = new Date("november 6, 2024 0:0:0").getTime();
 var x = setInterval(function () {
 
     var now = new Date().getTime();
